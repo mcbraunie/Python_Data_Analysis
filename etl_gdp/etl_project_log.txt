@@ -1,0 +1,7 @@
+2024-Feb-06-14:16:28 : Start ETL process
+2024-Feb-06-14:16:29 : Data extraction complete. Beginning Transform process
+2024-Feb-06-14:16:29 : Data transformed. Beginning load processes
+2024-Feb-06-14:16:29 : Data saved to csv
+2024-Feb-06-14:16:29 : Established connection to SQL db
+2024-Feb-06-14:16:29 : Data loaded to Database. Running query...
+2024-Feb-06-14:16:29 : All processes have completed.
